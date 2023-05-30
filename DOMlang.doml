@@ -1,0 +1,11 @@
+fn mathProblems (offset) {
+  fn multiply (x, y) { 
+    x * y * offset
+  }
+
+  multiply
+}
+
+const multiplier = mathProblems(1);
+
+print(multiplier(15, 9))
