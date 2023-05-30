@@ -1,4 +1,4 @@
-// https://github.com/tylerlaceby/guide-to-interpreters-series
+// https://github.com/NoSweatProgramming/domLang/blob/main/lexer.ts
 // -----------------------------------------------------------
 // ---------------          LEXER          -------------------
 // ---  Responsible for producing tokens from the source   ---
